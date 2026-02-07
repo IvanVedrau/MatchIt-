@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "68843842331",
+    "firebase_url": "https://unityproject-15a7c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "unityproject-15a7c",
+    "storage_bucket": "unityproject-15a7c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68843842331:android:bb2d87fd6601f9f71b01be",
+        "android_client_info": {
+          "package_name": "com.BluMixGames.Matchit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJHmJ9ayvEbVMOige_OnUHZ0hnjZuLP08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
